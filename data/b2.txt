@@ -1,8 +1,2 @@
-this is b2 file with xxxy
-bye bye
-mmm mmm
-mmm mmm
-mmm mmm
-xxx yyy
-vvv vvv
-vvv vvv
+this is b2
+000 000
