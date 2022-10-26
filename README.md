@@ -1,1 +1,1 @@
-# This is a git playground repository
+# This is a git playground repository.
